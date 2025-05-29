@@ -425,9 +425,9 @@ function backpackUserscript(pathname){
 
                                 if (addKS && isWeapon(name)) {
                                     name.push(...generateKillstreaks(name[0]));
+                                } else {
+                                    items.push(...name);
                                 }
-
-                                items.push(...name);
                             });
                         iterator++;
                     }
