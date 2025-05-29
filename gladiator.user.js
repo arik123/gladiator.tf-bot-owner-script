@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gladiator.tf bot owner script
 // @namespace    https://steamcommunity.com/profiles/76561198320810968
-// @version      1.27
+// @version      10.0
 // @description  A script for owners of bots on gladiator.tf
 // @author       GladiatorTF
 // @grant        GM.getValue
